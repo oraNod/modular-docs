@@ -1,1 +1,1 @@
-The CCS Technical Writing Manual Project Source
+Project Source for the CCS Technical Writing Manual
